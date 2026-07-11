@@ -13,8 +13,8 @@ The aim of the project is to create an easy-to-use, lightweight, cross-browser, 
 [Examples](https://threejs.org/examples/) &mdash;
 [Docs](https://threejs.org/docs/) &mdash;
 [Manual](https://threejs.org/manual/) &mdash;
-[Wiki](https://github.com/mrdoob/three.js/wiki) &mdash;
-[Migrating](https://github.com/mrdoob/three.js/wiki/Migration-Guide) &mdash;
+[Wiki](https://github.com/Unity-Billal-mesloub/three.js/wiki) &mdash;
+[Migrating](https://github.com/Unity-Billal-mesloub/three.js/wiki/Migration-Guide) &mdash;
 [Questions](https://stackoverflow.com/questions/tagged/three.js) &mdash;
 [Forum](https://discourse.threejs.org/) &mdash;
 [Discord](https://discord.gg/56GBJwAnUS)
@@ -65,12 +65,12 @@ If everything goes well, you should see [this](https://jsfiddle.net/w43x5Lgh/).
 Cloning the repo with all its history results in a ~2 GB download. If you don't need the whole history you can use the `depth` parameter to significantly reduce download size.
 
 ```sh
-git clone --depth=1 https://github.com/mrdoob/three.js.git
+git clone --depth=1 https://github.com/Unity-Billal-mesloub/three.js.git
 ```
 
 ### Change log
 
-[Releases](https://github.com/mrdoob/three.js/releases)
+[Releases](https://github.com/Unity-Billal-mesloub/three.js/releases)
 
 
 [npm]: https://img.shields.io/npm/v/three
